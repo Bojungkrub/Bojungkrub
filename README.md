@@ -17,6 +17,7 @@ Hi 👋 My name is Sothorn Jitwannarat (So)
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="./images/Airflow.png" width="36" height="36" alt="Airflow" /></a>
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="./images/dbt.png" width="36" height="36" alt="dbt" /></a>
 <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"><img src="./images/BigQuery.png" width="36" height="36" alt="BigQuery" /></a>
+<a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer"><img src="./images/LookerStudio.png" width="36" height="36" alt="LookerStudio" /></a>
 </p>
 
 
