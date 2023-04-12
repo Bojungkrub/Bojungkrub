@@ -10,14 +10,14 @@ Hi 👋 My name is Sothorn Jitwannarat (So)
 
 
 <p align="left">
-<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
-<a target="_blank" rel="noreferrer"><img src="./images/SQL.png" width="36" height="36" alt="SQL" /></a>
-<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a target="_blank" rel="noreferrer"><img src="./images/Airflow.png" width="36" height="36" alt="Airflow" /></a>
-<a target="_blank" rel="noreferrer"><img src="./images/dbt.png" width="36" height="36" alt="dbt" /></a>
-<a target="_blank" rel="noreferrer"><img src="./images/BigQuery.png" width="36" height="36" alt="BigQuery" /></a>
-<a target="_blank" rel="noreferrer"><img src="./images/LookerStudio.png" width="36" height="36" alt="LookerStudio" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+<a href="https://www.sqltutorial.org/" target="_blank" rel="noreferrer"><img src="./images/SQL.png" width="36" height="36" alt="SQL" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="./images/Airflow.png" width="36" height="36" alt="Airflow" /></a>
+<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="./images/dbt.png" width="36" height="36" alt="dbt" /></a>
+<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"><img src="./images/BigQuery.png" width="36" height="36" alt="BigQuery" /></a>
+<a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer"><img src="./images/LookerStudio.png" width="36" height="36" alt="LookerStudio" /></a>
 </p>
 
 
