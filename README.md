@@ -2,7 +2,7 @@ Hi 👋 My name is Sothorn Jitwannarat (So)
 =========================================
 
 * 🌍  I'm based in **Bangkok, Thailand**
-* 🖥️  See my portfolio at **[MyPortfolio](http://valley-cousin-5bf.notion.site/Hi-I-m-Sothorn-452a515c97c2456a81a922516422545a)**
+* 🖥️  See my portfolio at **[MyPortfolio](https://sothorn-j.notion.site/sothorn-j/Hi-I-m-Sothorn-452a515c97c2456a81a922516422545a)**
 * 🤔  I’m looking for a new career opportunity as a **Data Engineer / Data Analyst**
 * 🤝  I'm open to collaborating on **Data Engineer / Data Analyst**
 
